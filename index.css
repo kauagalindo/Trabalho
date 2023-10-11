@@ -108,6 +108,8 @@ header {
     border-bottom-left-radius: 6px;
     border-top-right-radius: 6px;
     box-shadow: 0 0 35px rgb(44, 122, 224);
+    background: transparent;
+    backdrop-filter: blur(60px);
 }
 
 .homenagem_wrapper>p {
